@@ -130,6 +130,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Stéphane Paillet](https://www.linkedin.com/in/stephanepaillet/), sysadmin
 * [William Pollet](https://github.com/williampollet), développeur
 * [Romain Pellerin](https://romainpellerin.eu), développeur
+* [Kevin Petit](https://github.com/Uranne), développeur
 * [Alan Poulain](https://github.com/alanpoulain), développeur
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
 * [Yann Prou](https://github.com/toofff), développeur
